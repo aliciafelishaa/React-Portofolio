@@ -19,16 +19,13 @@ function Navbar() {
             Alicia Felisha
           </motion.span>
           <div className={"socmed"}>
-            <a href="#">
-              <img src="/facebook.png" alt="" />
+            <a href="https://github.com/aliciafelishaa">
+              <img src="/github1.png" alt="" />
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/aliciafelishaa/?hl=id">
               <img src="/instagram.png" alt="" />
             </a>
-            <a href="#">
-              <img src="/youtube.png" alt="" />
-            </a>
-            <a href="">
+            <a href="https://www.linkedin.com/in/alicia-felisha-0b12a9284/">
               <img src="/linkedin.png" alt="" />
             </a>
           </div>
