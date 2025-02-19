@@ -57,7 +57,7 @@ function Services() {
             <h1>
               My{" "}
               <motion.b whileHover={{ color: "rebeccapurple" }}>
-                Organization
+                TechStack
               </motion.b>{" "}
               Experience.
             </h1>
